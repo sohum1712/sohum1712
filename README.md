@@ -1,7 +1,7 @@
-![Soham Vaghela's GitHub Banner][banner github](https://github.com/user-attachments/assets/fe79b047-fcf3-4fb8-ba1e-5a2ff67ed02f)
+<p align="center"> <img src="banner github.png " alt="corgito ergo sum" height ="100%" Width = "100%"/> </p>
 
 
-# 👋 Hi, I'm Soham Vaghela!
+# 👋 Hi, I'm Soham Vaghela!<img src="web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration.png" height="15%" width="15%"/>
 
 ## 🚀 About Me
 - 🎓 **BTech CSE Student** | Parul University (2nd Year)
