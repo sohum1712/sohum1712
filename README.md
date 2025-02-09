@@ -1,4 +1,5 @@
-![Soham Vaghela's GitHub Banner](https://your-image-link.com/banner.png)
+![Soham Vaghela's GitHub Banner][banner github](https://github.com/user-attachments/assets/fe79b047-fcf3-4fb8-ba1e-5a2ff67ed02f)
+
 
 # 👋 Hi, I'm Soham Vaghela!
 
